@@ -43,3 +43,6 @@ jupyter notebook TP4_Validation_Coherence_Donnees.ipynb
 ```
 
 Assurez-vous que le dossier `../data/` contient bien le fichier source `healthcare_inconsistent.csv`.
+
+
+
